@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdishakur</h1>
 <h3 align="center">I am Front End developer.</h3>
-<img align="right" alt="coding" width="400" src=" https://img.freepik.com/premium-vector/programmer-semi-flat-color-vector-character-student-figure-sitting-person-on-white-man-at-computer-desk-coding-isolated-modern-cartoon-style-illustration-for-graphic-design-and-animation_151150-5964.jpg?w=826 ">
 - 🌱 I’m currently learning **Java, Typscript, Python**
 
 - 📫 How to reach me **abdishakurali31@gmail.com**
